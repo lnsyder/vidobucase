@@ -4,7 +4,7 @@
 
             <h1 class="text-center">Vidobu Person List</h1>
             <div class="pb-3" align="right">
-                <button class="btn btn-primary" @click="addPerson">Ekle</button>
+                <button class="btn btn-primary" @click="addPerson">Add</button>
             </div>
             <table id="example" class="table table-striped table-bordered" style="width:100%">
                 <thead>
